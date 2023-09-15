@@ -3,10 +3,10 @@ import { Navbar, Main, Product, Footer } from "../components";
 function Home() {
   return (
     <>
-      <Navbar />
+      {/* <Navbar /> */}
       <Main />
-      <Product />
-      <Footer />
+      {/* <Product />
+      <Footer /> */}
     </>
   )
 }
